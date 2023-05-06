@@ -21,6 +21,7 @@ prefabs = {
     "Pyramid Corner": "9028",
     "Cone": "9040",
     "Textured Cube": "9024",
+    "Textured Cylinder":"9023",
     "Textured Sphere": "9025",
     "Textured Wedge": "9026",
     "Textured Pyramid": "9029",
